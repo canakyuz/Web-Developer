@@ -4,10 +4,14 @@
 
 - ### Phase 1: HTML & CSS
   - **Learn**
-    - [ ] [HTML Reference](https://htmlreference.io)
+   
     - [ ] [HTML - MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)
-    - [ ] [CSS Reference](https://cssreference.io)
     - [ ] [MDN - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+    - [ ] [C_ HTML](https://www.codecademy.com/resources/docs/html)
+    - [ ] [C_ CSS](https://www.codecademy.com/resources/docs/css)
+  - **Cheat Sheet**
+    - [ ] [CSS Reference](https://cssreference.io)
+    - [ ] [HTML Reference](https://htmlreference.io)
   - **Practice Project** 
     - [ ] [FreeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 ---
